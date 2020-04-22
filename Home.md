@@ -22,7 +22,7 @@ In order to join an existing town, you must receive an invite request. This can 
 ### Creating a Town
 Once you have accumulated 100 gold ingots, you are finally able to create a town. To create a town, use the command /town new <town name>. This will deduct 100 non-refundable gold ingots from your inventory.
 
-Every twenty-four hours, 5 gold is collected from every town and nation on the server as an upkeep cost. You must have at least 10 gold stored in your town bank when this takes place or else your town will fall into ruins. To store gold in your town bank, use /town deposit <amount>. When a town falls into ruins, all blocks built remain unprotected from outsiders.
+Every twenty-four hours, 5 gold is collected from every town and nation on the server as an upkeep cost. You must have at least 5 gold stored in your town bank when this takes place or else your town will fall into ruins. To store gold in your town bank, use /town deposit <amount>. When a town falls into ruins, all blocks built remain unprotected from outsiders.
 
 ## Nations
 ### Joining a Nation
