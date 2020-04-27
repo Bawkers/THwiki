@@ -1,5 +1,5 @@
 ## Joining the Server
-Connect to TownyHavens by adding `play.townyhavens.net` to you list of Minecraft multiplayer servers.
+Connect to TownyHavens by adding `play.townyhavens.net` to your list of Minecraft multiplayer servers.
 
 ## On the Server
 When you first join TownyHavens, you randomly spawn somewhere on a map of Earth. You can easily locate your position by visiting `http://townyhavens.net/map `
