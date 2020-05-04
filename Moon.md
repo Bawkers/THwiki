@@ -15,4 +15,4 @@ The moon is littered with hostile aliens. Throughout your adventure on the moon,
 You will give you special potion effects to imitate what it may be like being on the actual moon. This includes JUMPING and SLOW_FALLING effects.
 
 ## Claiming
-Towny mechanics on the Moon work the same way on Earth. This means that you can also make towns, outposts and nations on the moon. Colonize the moon! 
+You cannot make towns or outposts on the moon. 
