@@ -18,4 +18,11 @@ Kings and Generals are always visible on the dynmap. Any player pillaging at the
 ## Military Ranks
 Military ranks are used in siege warfare for those that contribute to sieges. The military ranks for towns are guard, sheriff, and mayor. The military ranks for nations are soldier, captain, general, and king. If a friendly military leader is nearby when a soldier dies in a siege, then points loss is reduced by 20%. If an enemy military leader is nearby when a soldier dies in a siege, then points loss is increased by 20%. If a military leader dies in a siege, then points loss in increased by 50%. 
 
+## Surender Town
+After 24 hours of a siege being initiated, mayors can surrender the town by placing an all-white banner somewhere in the town.
 
+## Abandon Attack
+After 24 hours of a siege being initiated, kings or generals can abandon the siege by placing an all-white banner around the siege banner. 
+
+## Capturing a Town
+After the siege is won, a king or general can place a colored banner in the wilderness around the town to add the town to their nation. 
