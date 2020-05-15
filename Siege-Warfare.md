@@ -1,7 +1,6 @@
-# WORK IN PROGRESS 
 ## Start a Siege
 
-To start a siege place a colored banner close to the town you want to siege. You will need 5 gold per plot that the defending town has and also a General or King rank to initiate the siege. The siege winner will receive this money back.
+To start a siege place a colored banner close to the town you want to siege. You will need 5 gold per plot that the defending town has and also a General or King rank to initiate the siege. The siege winner will receive this money back.  A nation may only have a siege active at a single time. This value may change in the future but at least for the release of siege war, it will remain. 
 
 ## Scoring Points
 For the attacking nation to win a siege the siege score must be positive and for the defending town to win the siege score must be negative. Sieges last for 3 days and the timer can be found in `/t` for that town. 
@@ -16,7 +15,7 @@ Killing enemies within a 100 block radius of the siege banner contributes 100 si
 Kings and Generals are always visible on the Dynmap. Any player pillaging at the banner is always visible on the map. Other military-ranked players can simply equip a compass or shield in their off-hand to disappear from the map. Other players remain visible on the map.
 
 ## Military Ranks
-Military ranks are used in siege warfare for those that contribute to sieges. The military ranks for towns are guard, sheriff, and mayor. The military ranks for nations are soldier, captain, general, and king. If a friendly military leader is nearby when a soldier dies in a siege, then points loss is reduced by 20%. If an enemy military leader is nearby when a soldier dies in a siege, then points loss is increased by 20%. If a military leader dies in a siege, then points loss in increased by 50%. 
+Military ranks are used in siege warfare for those that contribute to sieges. The military ranks for towns are guard, sheriff, and mayor. The military ranks for nations are soldier, captain, general, and king.
 
 ## Surender Town
 After 24 hours of a siege being initiated, mayors can surrender the town by placing an all-white banner somewhere in the town.
