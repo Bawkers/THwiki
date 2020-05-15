@@ -20,14 +20,14 @@ After 24 hours of a siege being initiated, kings or generals can abandon the sie
 ## Military Ranks
 Military ranks are used in siege warfare for those that contribute to sieges. The military ranks for towns are guard, sheriff, and mayor. The military ranks for nations are soldier, captain, general, and king.
 
-## Plunder
-After the siege is won, a king or general can place a chest in the wilderness around the town to plunder 5 gold per chunk, transferring the gold to the plundering nation. If the town does not have enough gold, the town will fall into ruin. 
-
 ## Surender Town
 After 24 hours of a siege being initiated, mayors can surrender the town by placing an all-white banner somewhere in the town.
 
 ## Capturing a Town
 After the siege is won, a king or general can place a colored banner in the wilderness around the town to add the town to their nation. 
+
+## Plunder
+After the siege is won, a king or general can place a chest in the wilderness around the town to plunder 5 gold per chunk, transferring the gold to the plundering nation. If the town does not have enough gold, the town will fall into ruin. 
 
 ## Ruins
 When a town is deleted or falls, it will enter a ruined state for 72 hours. In this state, players can build and destroy. After 24 hours of the town being in a ruined state, it can be reclaimed using `/t reclaim` if no one claims it after 72 hours, the town will be deleted. 
