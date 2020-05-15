@@ -1,6 +1,6 @@
 ## Start a Siege
 
-To start a siege place a colored banner close to the town you want to siege. You will need 5 gold per plot that the defending town has and also a General or King rank to initiate the siege. The siege winner will receive this money back.  A nation may only have a siege active at a single time. This value may change in the future but at least for the release of siege war, it will remain. 
+To start a siege place a colored banner close to the town you want to siege. You will need 5 gold per chunk that the defending town owns and also a General or King rank to initiate the siege. The siege winner will receive this money back.  A nation may only have a siege active at a single time. This value may change in the future but at least for the release of siege war, it will remain. 
 
 ## Peaceful Towns
 As a mayor, you can declare your town to be peaceful by doing `/t toggle peaceful`. PVP will be forced off in towns and residents will not be able to conflict any PVP damage.  It takes three days to confirm that towns are peaceful so that the system is not abused.
