@@ -9,7 +9,7 @@ As a mayor, you can declare your town to be peaceful by doing `/t toggle peacefu
 For the attacking nation to win a siege the siege score must be positive and for the defending town to win the siege score must be negative. Sieges last for 3 days and the timer can be found in `/t` for that town. 
 
 ### Banner Control 
-Gaining banner control for your side contributes to siege points. This requires you to have a military rank and can be done by remaining close to the siege banner for 10 minutes. Once your side has banner control, 10 siege points will be given every 20 seconds. 
+Gaining banner control for your side contributes to siege points. This requires you to have a military rank and can be done by remaining close to the siege banner for 10 minutes. Once your side has banner control, 10 siege points will be given every 20 seconds. Only 6 players can hold the siege banner at once. 
 
 ### Killing Players
 Killing enemies within a 100 block radius of the siege banner contributes 100 siege points. Allies with a military rank can also contribute. All residents in the nation and allies with a military rank can contribute to the score. 
