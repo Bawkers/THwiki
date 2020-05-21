@@ -3,7 +3,7 @@
 To start a siege place a colored banner close to the town you want to siege. You will need 4 gold per chunk that the defending town owns and also a General or King rank to initiate the siege. The siege winner will receive this money back.  A nation may only have a siege active at a single time. Starting a siege will also mean that pvp will be enabled in that town. 
 
 ## Peaceful Towns
-As a mayor, you can declare your town to be peaceful by doing `/t toggle peaceful`. PVP will be forced off in towns and residents will not be able to conflict any PVP damage.  It takes three days to confirm that towns are peaceful so that the system is not abused. Peaceful towns can sieged but are protected from all material siege costs e.g. pillage, plunder, and occupier taxes. Residents also cannot have nation-military-ranks (e.g. soldier)
+As a mayor, you can declare your town to be peaceful by doing `/t toggle peaceful`. PVP will be forced off in towns and residents will not be able to conflict any PVP damage.  It takes three days to confirm that towns are peaceful so that the system is not abused. Peaceful towns can be sieged but are protected from all material siege costs e.g. pillage, plunder, and occupier taxes. Residents also cannot have nation-military-ranks if they are peaceful. 
 
 ## Scoring Points
 For the attacking nation to win a siege the siege score must be positive and for the defending town to win the siege score must be negative. Sieges last for 3 days and the timer can be found in `/t` for that town. 
