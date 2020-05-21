@@ -37,3 +37,14 @@ When a town is deleted or falls, it will enter a ruined state for 72 hours. In t
 
 ## Revolt
 After 7 days of a town being captured by a nation, the town can revolt. This can be done by using `/n leave`
+
+## Tips
+1. **Fortify towns** - Walls are important. During sieges they help stop enemies from infiltrating towns and killing residents.
+2. **Fortify or abandon outposts** - Outposts are important. Towns can be besieged anywhere they have claimed territory.  Make provisions to defend valuable outposts, and abandon the rest.
+3. **Assign combat ranks** - Find residents who can be trusted to fight for your town or nation, and assign them military ranks.
+4. **Watch your town bank balance** - As a mayor, keep enough money in the bank for sieges. If a town is pillaged or plundered of all its gold by a siege attacker, the town will be destroyed, entering a ruined state for 3 days with all perms enabled. After 1 day it can be reclaimed by any resident, otherwise it will be deleted.
+5. **Make friends & allies** - Diplomacy is critical.  As a mayor, diplomacy can be the difference between your town remaining independant, within a friendly nation, or occupied by an expansionistic empire. As a king, diplomacy can be the difference between your nation succeeding, and its annihilation.
+6. **Do not remove guards while they are near sieges** - As an under-siege mayor, if one of your guards (online or offline) is near the siege banner, ensure they do not get removed as a battle participant (e.g. deranked). If this happens, a siege-point penalty will be applied.
+7. **Do not remove soldiers while they are near sieges** - As an attacking/defending king, if one of your soldiers (online or offline) is near a siege banner, ensure they do not get removed as a battle participant (e.g. deranked). If this happens, a siege-point penalty will be applied.
+8. **Make a plan B (Mayor)** - As mayor, defeat in battle is rarely a cause for abandoning your town. Your town may lose a little money due to plunder, or be temporarily occupied, but your buildings, items, and townspeople are the same, and still need your wise leadership to prosper.
+9. **Make a plan B (King)** - As king, defeat in battle is sometimes only a temporary setback. If a town has fallen to the enemy, rally your soldiers to defend your remaining towns. If your capital is about to fall, evacuate to a (new or existing) loyal town and declare it the capital (king will change). 
