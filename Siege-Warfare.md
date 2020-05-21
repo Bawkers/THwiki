@@ -48,3 +48,5 @@ After 7 days of a town being captured by a nation, the town can revolt. This can
 7. **Do not remove soldiers while they are near sieges** - As an attacking/defending king, if one of your soldiers (online or offline) is near a siege banner, ensure they do not get removed as a battle participant (e.g. deranked). If this happens, a siege-point penalty will be applied.
 8. **Make a plan B (Mayor)** - As mayor, defeat in battle is rarely a cause for abandoning your town. Your town may lose a little money due to plunder, or be temporarily occupied, but your buildings, items, and townspeople are the same, and still need your wise leadership to prosper.
 9. **Make a plan B (King)** - As king, defeat in battle is sometimes only a temporary setback. If a town has fallen to the enemy, rally your soldiers to defend your remaining towns. If your capital is about to fall, evacuate to a (new or existing) loyal town and declare it the capital (king will change). 
+
+Thanks to Goosius
