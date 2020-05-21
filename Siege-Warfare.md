@@ -14,7 +14,7 @@ Gaining banner control for your side contributes to siege points. This requires 
 ### Killing Players
 Killing enemies within a 100 block radius of the siege banner contributes 100 siege points. Allies with a military rank can also contribute. All residents in the nation and allies with a military rank can contribute to the score. 
 
-## Tactical Visibility 
+## Tactical Visibility (Not currently enabled) 
 Any player pillaging at the banner is always visible on the map. Other players can simply equip a compass or shield in their off-hand to disappear from the map. Other players remain visible on the map.
 
 ## Abandon Attack
