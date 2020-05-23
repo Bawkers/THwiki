@@ -30,7 +30,7 @@ After 24 hours of a siege being initiated, mayors can surrender the town by plac
 After the siege is won, a king or general can place a colored banner in the wilderness around the town to add the town to their nation. If the capital of a nation is taken, then the new capital is the largest town in that nation. 
 
 ## Plunder
-After the siege is won, a king or general can place a chest in the wilderness around the town to plunder 4 gold per chunk, transferring the gold to the plundering nation. If the town does not have enough gold, the town will fall into ruin. 
+After the siege is won, a king or general can place a chest in the wilderness around the town to plunder 2 gold per chunk, transferring the gold to the plundering nation. If the town does not have enough gold, the town will fall into ruin. 
 
 ## Ruins
 When a town is deleted or falls, it will enter a ruined state for 72 hours. In this state, players can build and destroy. After 24 hours of the town being in a ruined state, it can be reclaimed using `/t reclaim`. If no one claims it after 72 hours, the town will be deleted. 
