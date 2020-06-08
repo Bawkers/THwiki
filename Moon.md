@@ -16,7 +16,7 @@ End Stone - 45%
 
 Prismarine Crystal - 23%
 
-Prismarine Shard - 22%
+Prismarine Shard - 21%
 
 Ender Pearl - 5% 
 
@@ -29,6 +29,8 @@ Trident - 1.1%
 Shulker Shell - 1.1%
 
 End Rod - 1.1%
+
+Dragons Breath - 1.1%
 
 ## Effects
 You will give you special potion effects to imitate what it may be like being on the actual moon. This includes `JUMPING ` and `SLOW_FALLING` effects.
