@@ -14,23 +14,25 @@ The moon is littered with hostile aliens. Throughout your adventure on the moon,
 ## Loot Drops
 End Stone - 45%
 
-Prismarine Crystal - 23%
+Prismarine Crystal - 22%
 
 Prismarine Shard - 21%
 
 Ender Pearl - 5% 
 
-Elytra - 1.1%
+Elytra - 1%
 
-Phantom Membrane - 1.1% 
+Phantom Membrane - 1% 
 
-Trident - 1.1%
+Trident - 1%
 
-Shulker Shell - 1.1%
+Shulker Shell - 1%
 
-End Rod - 1.1%
+End Rod - 1%
 
-Dragons Breath - 1.1%
+Dragons Breath - 1%
+
+Sponge - 1%
 
 ## Effects
 You will give you special potion effects to imitate what it may be like being on the actual moon. This includes `JUMPING ` and `SLOW_FALLING` effects.
