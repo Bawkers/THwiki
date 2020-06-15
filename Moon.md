@@ -3,7 +3,7 @@
 ## Traveling to the Moon
 Traveling to the moon requires you to build a rocket. To build a rocket place the following in a verticle order: 
 
-`One block of redstone on the bottom. 3 glass blocks in the middle. 1 iron block on the top. `
+`Start by placing one block of redstone as the base. Place 3 blocks of glass on top of the redstone. Finally, place a block of iron on the glass blocks`
 
 Once you have built the rocket, right-click the Redstone block with a coal block to activate the rocket engine. You will then be shooted up into the sky and randomly teleported on the moon. To get back to earth do /teleport or /t spawn to your town or public town. 
 
