@@ -1,6 +1,6 @@
 ## Start a Siege
 
-To start a siege place a colored banner close to the town you want to siege. You will need 4 gold per chunk that the defending town owns and also a General or King rank to initiate the siege. The siege winner will receive this money back.  A nation may only have a siege active at a single time. Starting a siege will also mean that pvp will be enabled in that town. 
+To be able to siege a town, you must enemy the nation associated with the town. To do this, do /n enemy add (nation). To start a siege place a colored banner close to the town you want to siege. You will need 4 gold per chunk that the defending town owns and also a General or King rank to initiate the siege. The siege winner will receive this money back.  A nation may only have a siege active at a single time. Starting a siege will also mean that pvp will be enabled in that town. 
 
 ## Peaceful Towns
 As a mayor, you can declare your town to be peaceful by doing `/t toggle peaceful`. It takes three days for towns to enter Peaceful mode. Peaceful towns can be sieged but are protected from all material siege costs (plunder, and occupier taxes). They cannot enter siege-zones (except within their own town). If they do, they will be afflicted by 'war allergy' (poison + slow + weakness)
