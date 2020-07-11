@@ -30,3 +30,6 @@ Once you become a town, you are eligible for joining a nation.
 For a town to become the capital of a new nation, they must have 1000 gold in their nation bank. Only the mayor of an existing town can form a nation. To create a nation, use the command `/nation new <nation name>.`
 
 Nations can invite other towns that are eligible of joining a nation using the command /nation invite <town name>. When a nation falls, each town is left nation-less.
+
+## Inactivity
+Players inactive for more than 45 days will be deleted from the towny database. If there are no residents in a town, the town is deleted
