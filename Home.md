@@ -32,4 +32,4 @@ For a town to become the capital of a new nation, they must have 1000 gold in th
 Nations can invite other towns that are eligible of joining a nation using the command /nation invite <town name>. When a nation falls, each town is left nation-less.
 
 ## Inactivity
-Players inactive for more than 45 days will be deleted from the towny database. If there are no residents in a town, the town is deleted
+Players inactive for more than 45 days will be deleted from the towny database. If there are no players in a town, the town is deleted
