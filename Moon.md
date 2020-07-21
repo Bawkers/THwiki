@@ -30,7 +30,7 @@ Shulker Shell - 1%
 
 End Rod - 1%
 
-Dragons Breath - 1%
+Dragons Breath - 2%
 
 Sponge - 1%
 
