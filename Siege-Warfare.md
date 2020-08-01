@@ -12,7 +12,7 @@ For the attacking nation to win a siege the siege score must be positive and for
 Gaining banner control for your side contributes to siege points. This requires you to have a military rank and can be done by remaining close to the siege banner for 10 minutes. Once your side has banner control, 10 siege points will be given every 20 seconds. Only 6 players can hold the siege banner at once. 
 
 ### Killing Players
-Killing enemies within a 100 block radius of the siege banner contributes 100 siege points. Allies with a military rank can also contribute. All residents in the nation and allies with a military rank can contribute to the score. 
+Killing enemies within a 150 block radius of the siege banner contributes 150 siege points. Allies with a military rank can also contribute. All residents in the nation and allies with a military rank can contribute to the score. 
 
 ## Abandon Attack
 After 24 hours of a siege being initiated, kings or generals can abandon the siege by placing an all-white banner around the siege banner.
