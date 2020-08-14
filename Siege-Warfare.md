@@ -1,6 +1,6 @@
 ## Start a Siege
 
-To be able to siege a town, you must enemy the nation associated with the town. To do this, do /n enemy add (nation). To start a siege place a colored banner close to the town you want to siege. You will need 4 gold per chunk that the defending town owns and also a General or King rank to initiate the siege. The siege winner will receive this money back.  A nation may only have a siege active at a single time. Starting a siege will also mean that pvp will be enabled in that town. 
+To be able to siege a town, you must enemy the nation associated with the town. To do this, do /n enemy add (nation). To start a siege place a colored banner close to the town you want to siege. You will need 5 gold per chunk that the defending town owns and also a General or King rank to initiate the siege. The siege winner will receive this money back.  A nation may only have a siege active at a single time. Starting a siege will also mean that pvp will be enabled in that town. 
 
 ## Peaceful Towns
 As a mayor, declare your town to be peaceful using '/t toggle peaceful'. The status will be confirmed in 3 days (1 days if the town is new). Once confirmed, the town becomes immune to sieges, taxes, & nationality-spawn-restrictions. PVP is locked off, and it gets a public /t spawn (if it didn't have one already). Nation choice is more restricted, the town can only choose a nation which has a 'guardian town' with 75 chunks. A town qualifies as a guardian town if it has 30 plots or more and is not-peaceful. Peaceful Town residents cannot receive nation-military ranks, and are afflicted by 'war allergy' if they enter a siege zone.
@@ -27,7 +27,7 @@ After 24 hours of a siege being initiated, mayors can surrender the town by plac
 After the siege is won, a king or general can place a colored banner in the wilderness around the town to add the town to their nation. If the capital of a nation is taken, then the new capital is the largest town in that nation. 
 
 ## Plunder
-After the siege is won, a king or general can place a chest in the wilderness around the town to plunder 4 gold per chunk, transferring the gold to the plundering nation. If the town does not have enough gold, the town will fall into ruin. 
+After the siege is won, a king or general can place a chest in the wilderness around the town to plunder 5 gold per chunk, transferring the gold to the plundering nation. If the town does not have enough gold, the town will fall into ruin. 
 
 ## Ruins
 When a town is deleted or falls, it will enter a ruined state for 72 hours. After 24 hours of the town being in a ruined state, it can be reclaimed using `/t reclaim`. If no one claims it after 72 hours, the town will be deleted. Only the pre-ruin residents can reclaim that particular town. If a resident leaves the town while ruined they cannot rejoin or reclaim it.
