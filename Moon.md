@@ -9,7 +9,7 @@ Once you have built the rocket, right-click the Redstone block with a coal block
 
 
 ## Bosses
-The moon is littered with hostile aliens. Throughout your adventure on the moon, a lot of aliens. Killing them will drop end loot including Elytras, shulker shells, end blocks, trident, prismarine membranes, and ender pearls It is best to hunt them with other players as they can be quite deadly. 
+The moon is littered with hostile aliens. Throughout your adventure on the moon, you will spot a lot of aliens. Killing them will drop various loot as listed in the loot drops section. 
 
 ## Loot Drops
 End Stone - 45%
