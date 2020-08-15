@@ -35,7 +35,7 @@ Dragons Breath - 2%
 Sponge - 1%
 
 ## Effects
-You will give you special potion effects to imitate what it may be like being on the actual moon. This includes `JUMPING ` and `SLOW_FALLING` effects.
+You will give you special potion effects to mimic the feeling of being on the moon. This includes `JUMPING ` and `SLOW_FALLING` effects.
 
 ## Debris
 Shooting rockets to space does come with its consequences. There will be space debris around your rocket launch sites at  `y:256`. These will just be iron blocks that you can remove if you want. Make sure you don't launch a rocket where there is debris. 
