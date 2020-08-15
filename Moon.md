@@ -20,6 +20,8 @@ Prismarine Shard - 21%
 
 Ender Pearl - 5% 
 
+Dragons Breath - 2%
+
 Elytra - 1%
 
 Phantom Membrane - 1% 
@@ -29,8 +31,6 @@ Trident - 1%
 Shulker Shell - 1%
 
 End Rod - 1%
-
-Dragons Breath - 2%
 
 Sponge - 1%
 
