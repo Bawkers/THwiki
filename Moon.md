@@ -12,11 +12,11 @@ Once you have built the rocket, right-click the Redstone block with a coal block
 The moon is littered with hostile aliens. Throughout your adventure on the moon, you will spot a lot of aliens. Killing them will drop various loot as listed in the loot drops section. 
 
 ## Loot Drops
-4x End Stone - 45%
+End Stone - 45%
 
-4x Prismarine Crystal - 22%
+Prismarine Crystal - 22%
 
-4x Prismarine Shard - 21%
+Prismarine Shard - 21%
 
 Ender Pearl - 5% 
 
