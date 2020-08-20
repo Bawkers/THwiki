@@ -33,7 +33,7 @@ After the siege is won, a king or general can place a chest in the wilderness ar
 When a town is deleted or falls, it will enter a ruined state for 72 hours. After 24 hours of the town being in a ruined state, it can be reclaimed using `/t reclaim`. If no one claims it after 72 hours, the town will be deleted. Only the pre-ruin residents can reclaim that particular town. If a resident leaves the town while ruined they cannot rejoin or reclaim it.
 
 ## Revolt
-After 7 days of a town being captured by a nation, the town can revolt. This can be done by using `/n leave`
+After 12 days of a town being captured by a nation, the town can revolt. This can be done by using `/n leave`
 
 ## Nation Refund
 As a king, if your nation gets deleted for any reason, including the capture of your last town, you will be refunded (75%) of the initial setup cost. This can be claimed using /n refund. This amount in gold ingots will be sent to your inventory. If your inventory is full, it will be sent to your echest. If your echest is full, it will be dropped to the floor.
