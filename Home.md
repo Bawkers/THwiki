@@ -15,12 +15,12 @@ On TownyHavens, the economy is solely based on gold ingots. The only forms of vi
 
 ## Towns
 ### Joining an Existing Town
-Creating a town takes a lot of time, gold, and effort. When you first join TownyHavens, it may be easier and more practical to join an already existing town. This option can allow you to get a head start while having the ability to create a town in the near future.
+Creating a town takes a lot of time, gold, and effort. When you first join TownyHavens, it may be easier and more practical to join an already existing town. This option can allow you to get a head start while having the ability to create a town in the near future. 
 
 In order to join an existing town, you must receive an invite request. This can be obtained by asking the community if anyone is in need of new members. There are almost always towns happy to welcome newcomers.
 
 ### Creating a Town
-Once you have accumulated 100 gold ingots, you are finally able to create a town. To create a town, use the command `/town new <town name>.` This will deduct 100 non-refundable gold ingots from your inventory.
+Once you have accumulated 100 gold ingots, you are finally able to create a town. To create a town, use the command `/town new <town name>.` This will deduct 100 non-refundable gold ingots from your inventory. Towns will be immune to sieges for 10 days. 
 
 ## Nations
 ### Joining a Nation
