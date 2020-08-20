@@ -15,7 +15,7 @@ Since gold is seen as the most valuable material on TownyHavens, players may wis
 
   **Chest Shops**
 
-Chest shops allow you to sell the contents of a chest. To create a chest shop left click a chest with an item you would like to sell. After clicking, enter the price you want to sell 1x of the item for. You can stock and unstock the chest. 
+Chest shops allow you to sell the contents of a chest. To create a chest shop left click a chest with an item you would like to sell. After clicking, enter the price you want to sell the item for. You can stock and unstock the chest. 
 
   **Trading Items**
 
