@@ -5,7 +5,8 @@ Some of mcMMO abilities and skills are disabled to maintain game balance. mcMMO 
 1. Unarmed 
 2. Axes 
 3. Swords 
-4. Salvage 
+4. Archery 
+5. Salvage 
 
 ### Disabled abilities are:
 
