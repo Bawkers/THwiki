@@ -8,7 +8,7 @@ There are three ways to obtain gold on TownyHavens.
 Gold can be found while mining underground. The rarity of gold is equal to vanilla Minecraft, making a rarer resource.
 
 ### Voting
-Every 24 hours, each player can vote for TownyHavens up to 5 times. With each vote, you receive 8 gold. 
+Every 24 hours, each player can vote for TownyHavens up to 4 times. With each vote, you receive 8 gold. 
 
 ### Trading
 Since gold is seen as the most valuable material on TownyHavens, players may wish to trade other valuable items in exchange. Be careful however, scamming is not punishable.
