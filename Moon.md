@@ -34,11 +34,5 @@ End Rod - 1%
 
 Sponge - 1%
 
-## Effects
-You will give you special potion effects to mimic the feeling of being on the moon. This includes `JUMPING ` and `SLOW_FALLING` effects.
-
-## Debris
-Shooting rockets to space does come with its consequences. There will be space debris around your rocket launch sites at  `y:256`. These will just be iron blocks that you can remove if you want. Make sure you don't launch a rocket where there is debris. 
-
 ## Claiming
-You cannot make towns or outposts on the moon. 
+You cannot make towns on the moon. However, you can make outposts. 
