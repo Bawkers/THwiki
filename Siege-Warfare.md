@@ -20,7 +20,7 @@ After 24 hours of a siege being initiated, kings or generals can abandon the sie
 ## Military Ranks
 Military ranks are used in siege warfare for those that contribute to sieges. The military ranks for towns are guard, sheriff, and mayor. The military ranks for nations are soldier, captain, general, and king. To give a military rank you must be king. Do `/n rank add (name) `
 
-## Surender Town
+## Surrender Town
 After 24 hours of a siege being initiated, mayors can surrender the town by placing an all-white banner somewhere in the town.
 
 ## Capturing a Town
