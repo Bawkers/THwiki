@@ -24,7 +24,7 @@ Military ranks are used in siege warfare for those that contribute to sieges. Th
 After 24 hours of a siege being initiated, mayors can surrender the town by placing an all-white banner somewhere in the town.
 
 ## Capturing a Town
-After the siege is won, a king or general can place a colored banner in the wilderness around the town to add the town to their nation. If the capital of a nation is taken, then the new capital is the largest town in that nation. 
+After the siege is won, a king or general can place a colored banner in the wilderness around the town to add the town to their nation. The mayor of the captured town will stay the same, but the town will be forced to join the attacker's nation.  If the capital of a nation is taken, then the new capital is the largest town in that nation. 
 
 ## Plunder
 After the siege is won, a king or general can place a chest in the wilderness around the town to plunder 5 gold per chunk, transferring the gold to the plundering nation. If the town does not have enough gold, the town will fall into ruin. 
