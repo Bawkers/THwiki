@@ -5,6 +5,8 @@ To be able to siege a town, you must enemy the nation associated with the town. 
 ## Peaceful Towns
 As a mayor, declare your town to be peaceful using '/t toggle peaceful'. The status will be confirmed in 3 days (1 days if the town is new). Once confirmed, the town becomes immune to sieges, taxes, & nationality-spawn-restrictions. PVP is locked off, and it gets a public /t spawn (if it didn't have one already). Nation choice is more restricted, the town can only choose a nation which has a 'guardian town' with 75 chunks. A town qualifies as a guardian town if it has 30 plots or more and is not-peaceful. Peaceful Town residents cannot receive nation-military ranks, and are afflicted by 'war allergy' if they enter a siege zone.
 
+**NOTE: A nation's capital town can NOT be peaceful.  If a town is peaceful and is the capital of a nation, it will be automatically deleted due to the guardian town system at the start of the towny day.**
+
 ## Scoring Points
 For the attacking nation to win a siege the siege score must be positive and for the defending town to win the siege score must be negative. Sieges last for 3 days and the timer can be found in `/t` for that town. 
 
