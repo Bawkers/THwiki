@@ -31,7 +31,7 @@ For the attacking nation to win a siege, the siege score must be positive, and f
 Sieges are broken up into battle sessions. A battle session lasts for 50 minutes and has a 10-minute break period from one session to the next. At 10 minutes past every hour (5:10, 6:10, ...), a new session will begin. Each battle session acts as a 'round' in which players can accumulate battle points. The side with the most battle points at the end of the session adds those points to the siege score.
 
 ### Banner Control 
-Gaining banner control for your side contributes to battle points. This requires you to have a military rank and can be done by remaining close to the siege banner for 7 minutes. If an enemy is also near the banner, you must clear them out before you can take banner control. Once your side has banner control, 10 siege points will be given every 20 seconds.
+Gaining banner control for your side contributes to battle points. This requires you to have a military rank and can be done by remaining close to the siege banner for 7 minutes. If an enemy is also near the banner, you must clear them out before you can take banner control. Once your side has banner control, 10 siege points will be given every 20 seconds per player with banner control.
 
 ### Killing Players
 Killing enemies within a 150 block radius of the siege banner contributes 150 battle points. Allies with a military rank can also contribute. All residents in the nation and allies with a military rank can contribute to the score.
