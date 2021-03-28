@@ -34,7 +34,7 @@ Sieges are broken up into battle sessions. A battle session lasts for 50 minutes
 Gaining banner control for your side contributes to battle points. This requires you to have a military rank and can be done by remaining close to the siege banner for 7 minutes. If an enemy is also near the banner, you must clear them out before you can take banner control. Once your side has banner control, 10 siege points will be given every 20 seconds per player with banner control.
 
 ### Killing Players
-Killing enemies within a 150 block radius of the siege banner contributes 150 battle points. Allies with a military rank can also contribute. All residents in the nation and allies with a military rank can contribute to the score.
+Killing enemies within a 150 block radius of the siege banner contributes 150 battle points. Residents of the town and members of the nation with a military rank can contribute to the score. Allies with a military rank can also contribute.
 
 ### Counterattack Booster
 Maintaining banner control can produce many points, but it comes at a cost. Each additional player who takes banner control will increase the points lost upon their death by 10%. A smart enemy will know how to use this to their advantage.
